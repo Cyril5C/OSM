@@ -13,7 +13,7 @@ Avant de commencer je vous conseille la lecture des [bonnes pratiques](https://w
 
 - L’éditeur web qui s'appelle [ID](https://www.openstreetmap.org) : très facile a utiliser. 
 - [JOSM](https://josm.openstreetmap.de/) : une appli JAVA pas facile a prendre en main...
-- 
+
 **Les outils qui m'aident pour pas trop faire de bêtises :**
 
 - Le [Wiki](https://wiki.openstreetmap.org/wiki/Main_Page) beaucoup d'infos pour bien cartographier. Avant de poster une question sur le forum je vous invite a bien lire le wiki sinon vous aller entendre _"c'est écrit dans le wiki"_ ;) En toute bienveillance bien sur !
