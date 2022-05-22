@@ -14,7 +14,7 @@ Avant de commencer a contribuer quelques conseils de lecture :
 ### Deux outils principaux pour contribuer à partir d'un ordinateur :
 
 - L’éditeur web qui s'appelle [ID](https://www.openstreetmap.org) : très facile a utiliser. 
-- [JOSM](https://josm.openstreetmap.de/) : une appli JAVA pas facile a prendre en main...
+- [JOSM](https://josm.openstreetmap.de/) : une appli JAVA pas facile a prendre en main. Voici une première [vidéo](https://www.youtube.com/watch?v=rwLtFXrAJQM) pour commencer
 
 ### Les outils qui m'aident pour pas trop faire de bêtises :
 
