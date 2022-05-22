@@ -4,7 +4,9 @@ Guide pour se lancer dans la contribution d'OpenStreetMap
 **Petit rappel :**
 
 Tout d'abord OSM est une **base de données**, il faut bien différencier OSM des fonds de cartes qui donnent une représentation de cette même base de donnée. On ne copie pas les cartes, les contributions doivent venir d'une observation terrain. 
+
 Et surtout : **RTFW : Read The Fucking Wiki** ! ;)
+
 Avant de commencer je vous conseille la lecture des [bonnes pratiques](https://wiki.openstreetmap.org/wiki/FR:Bonnes_pratiques)
 
 **Deux outils principaux pour contribuer à partir d'un ordinateur :**
