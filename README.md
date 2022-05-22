@@ -1,5 +1,5 @@
 # OSM
-## Guide pour se lancer dans la contribution d'OpenStreetMap
+## Guide pour se lancer dans la contribution à OpenStreetMap
 
 ### Petit rappel
 
@@ -36,15 +36,10 @@ Avant de commencer a contribuer quelques conseils de lecture :
 
 ### Ma routine OSM :
 
-Sur le terrain :
 - Je compare la réalité terrain et les données dans OSMAnd
 - Quand je vois un truc à ajouter/modifier dans OSM, j'ajoute une `note` dans OSMAnd
 - Je prends toutes les photos qui vont bien pour me rappeler ce qu'il faut modifier
 - A la maison, je vais ici `https://www.openstreetmap.org/user/My_User_id/notes` pour voir toutes mes notes et je fais les mises à jour tranquille sur l'ordinateur via ID.
-
-Et sinon en _tache de fond_ : 
-- Je consulte OSMOSE pour voir si j'ai fait des erreurs et je corrige celle des autres quand c'est dans mon quartier.
-- Je potasse le wiki et je traine sur le forum pour essayer de comprendre des choses...
 
 ### Liens pour aller plus loin :
 
