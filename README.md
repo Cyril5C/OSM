@@ -26,7 +26,7 @@ Avant de commencer a contribuer quelques conseils de lecture :
 
 ### Sur iOS :
 
-- [OSMAnd](https://osmand.net/) : ~~trop~~ super complet. Point fort c'est la seule application (que je connaisse) qui se met à jour toutes les heures, et j'aime bien voir et vérifier mes contributions rapidement. Il est très facile d'ajouter des `notes` (cf _Ma routine OSM_).
+- [OSMAnd](https://osmand.net/) : ~~trop~~ super complet. Point fort c'est la seule application (que je connaisse) qui se met à jour toutes les heures, et j'aime bien voir et vérifier mes contributions rapidement. Il est très facile d'ajouter des `notes` (cf [Ma routine OSM](#ma-routine-osm-)).
 - [Go Maps!!](https://apps.apple.com/fr/app/go-map/id592990211) : pour contribuer depuis son téléphone.
 
 ### En tant que consommateur des données OSM j'utilise :
