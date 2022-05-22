@@ -1,7 +1,7 @@
 # OSM
 ## Guide pour se lancer dans la contribution d'OpenStreetMap
 
-**Petit rappel :**
+### Petit rappel
 
 Tout d'abord OSM est une **base de données**, il faut bien différencier OSM des fonds de cartes qui donnent une représentation de cette même base de donnée. On ne copie pas les cartes, les contributions doivent venir d'une observation terrain. 
 
@@ -11,12 +11,12 @@ Avant de commencer a contribuer quelques conseils de lecture :
 - [Bonnes pratiques](https://wiki.openstreetmap.org/wiki/FR:Bonnes_pratiques)
 - [Les 10 commandements](https://wiki.openstreetmap.org/wiki/File:Les_10_cOSMandements.pdf)
 
-**Deux outils principaux pour contribuer à partir d'un ordinateur :**
+### Deux outils principaux pour contribuer à partir d'un ordinateur :
 
 - L’éditeur web qui s'appelle [ID](https://www.openstreetmap.org) : très facile a utiliser. 
 - [JOSM](https://josm.openstreetmap.de/) : une appli JAVA pas facile a prendre en main...
 
-**Les outils qui m'aident pour pas trop faire de bêtises :**
+### Les outils qui m'aident pour pas trop faire de bêtises :
 
 - Le [Wiki](https://wiki.openstreetmap.org/wiki/Main_Page) beaucoup d'infos pour bien cartographier. Avant de poster une question sur le forum je vous invite a bien lire le wiki sinon vous aller entendre _"c'est écrit dans le wiki"_ ;) En toute bienveillance bien sur !
 - [Osmose](http://osmose.openstreetmap.fr) pour voir ses erreurs et les erreurs des autres. Et bien sur les corriger.
@@ -24,17 +24,17 @@ Avant de commencer a contribuer quelques conseils de lecture :
 - [TagInfo](https://taginfo.openstreetmap.org/) pour voir la popularité des tags et en cas de doute ça peut aider.
 - [Overpass Turbo](https://overpass-turbo.eu/) comme OSM est une base de donnée on peut donc y faire des requètes.
 
-**Sur iOS :**
+### Sur iOS :
 
 - [OSMAnd](https://osmand.net/) : ~~trop~~ super complet. Point fort c'est la seule application (que je connaisse) qui se met à jour toutes les heures, et j'aime bien voir et vérifier mes contributions rapidement. Il est très facile d'ajouter des `notes` (cf _Ma routine OSM_).
 - [Go Maps!!](https://apps.apple.com/fr/app/go-map/id592990211) : pour contribuer depuis son téléphone.
 
-**En tant que consommateur des données OSM j'utilise :**
+### En tant que consommateur des données OSM j'utilise :
 
 - [Organic Maps](https://organicmaps.app/) : moins de détails qu'OSMAnd donc plus lisible pour un usage consommateur... Les données venant d'OSM sont mis à jour tous les mois.
 - [Qwant Maps](https://www.qwant.com/maps) : très bien sur ordinateur et sur mobile.
 
-**Ma routine OSM :**
+### Ma routine OSM :
 
 Sur le terrain :
 - Je compare la réalité terrain et les données dans OSMAnd
@@ -46,7 +46,7 @@ Et sinon en _tache de fond_ :
 - Je consulte OSMOSE pour voir si j'ai fait des erreurs et je corrige celle des autres quand c'est dans mon quartier.
 - Je potasse le wiki et je traine sur le forum pour essayer de comprendre des choses...
 
-**Liens pour aller plus loin :**
+### Liens pour aller plus loin :
 
 - [Le processus de proposition](https://wiki.openstreetmap.org/wiki/FR:Processus_de_propositionj)
 - [L'hebdo OSM](https://weeklyosm.eu/fr/)
