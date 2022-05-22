@@ -44,7 +44,7 @@ Et sinon en _tache de fond_ :
 - Je consulte OSMOSE pour voir si j'ai fait des erreurs et je corrige celle des autres quand c'est dans mon quartier.
 - Je potasse le wiki et je traine sur le forum pour essayer de comprendre des choses...
 
-**Lien pour aller plus loin :**
+**Liens pour aller plus loin :**
 
 - [Le processus de proposition](https://wiki.openstreetmap.org/wiki/FR:Processus_de_propositionj)
 - [L'hebdo OSM](https://weeklyosm.eu/fr/)
