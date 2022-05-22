@@ -43,6 +43,6 @@ Avant de commencer a contribuer quelques conseils de lecture :
 
 ### Liens pour aller plus loin :
 
-- [Le processus de proposition](https://wiki.openstreetmap.org/wiki/FR:Processus_de_propositionj)
+- [Le processus de proposition](https://wiki.openstreetmap.org/wiki/FR:Processus_de_proposition)
 - [L'hebdo OSM](https://weeklyosm.eu/fr/)
 
