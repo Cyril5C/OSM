@@ -18,7 +18,7 @@ Avant de commencer a contribuer quelques conseils de lecture :
 
 ### Les outils qui m'aident pour pas trop faire de bêtises :
 
-- Le [Wiki](https://wiki.openstreetmap.org/wiki/Main_Page) beaucoup d'infos pour bien cartographier. Avant de poster une question sur le forum je vous invite a bien lire le wiki sinon vous aller entendre _"c'est écrit dans le wiki"_ ;) En toute bienveillance bien sur !
+- Le [Wiki](https://wiki.openstreetmap.org/wiki/FR:Page_principale) beaucoup d'infos pour bien cartographier. Avant de poster une question sur le forum je vous invite a bien lire le wiki sinon vous aller entendre _"c'est écrit dans le wiki"_ ;) En toute bienveillance bien sur !
 - [Osmose](http://osmose.openstreetmap.fr) pour voir ses erreurs et les erreurs des autres. Et bien sur les corriger.
 - [YoHours](https://projets.pavie.info/yohours/) pour les _coder_  les horaires un peu complexe.
 - [TagInfo](https://taginfo.openstreetmap.org/) pour voir la popularité des tags et en cas de doute ça peut aider.
