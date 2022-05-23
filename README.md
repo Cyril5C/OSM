@@ -1,5 +1,5 @@
 # OSM
-## Guide pour se lancer dans la contribution à OpenStreetMap
+## Petit guide pour se lancer dans la contribution à OpenStreetMap
 
 ### Petit rappel
 
