@@ -18,18 +18,18 @@ Avant de commencer a contribuer quelques liens :
 - L’éditeur web qui s'appelle [ID](https://www.openstreetmap.org) : très facile a utiliser. 
 - [JOSM](https://josm.openstreetmap.de/) : une appli JAVA pas facile a prendre en main. Voici une première [vidéo](https://www.youtube.com/watch?v=rwLtFXrAJQM) pour commencer
 
-### Les outils qui m'aident pour pas trop faire de bêtises :
+### Sur iOS :
+
+- [OSMAnd](https://osmand.net/) : ~~trop~~ super complet. Point fort c'est la seule application (que je connaisse) qui se met à jour toutes les heures, et j'aime bien voir et vérifier mes contributions rapidement. Il est très facile d'ajouter des `notes` (cf [Ma routine OSM](#ma-routine-osm-)).
+- [Go Maps!!](https://apps.apple.com/fr/app/go-map/id592990211) : pour contribuer depuis son téléphone.
+
+### Les outils qui aident pour éviter de faire des bêtises :
 
 - Le [Wiki](https://wiki.openstreetmap.org/wiki/FR:Page_principale) beaucoup d'infos pour bien cartographier. Avant de poster une question sur le forum je vous invite a bien lire le wiki sinon vous aller entendre _"c'est écrit dans le wiki"_ ;) En toute bienveillance bien sur !
 - [Osmose](http://osmose.openstreetmap.fr) pour voir ses erreurs et les erreurs des autres. Et bien sur les corriger.
 - [YoHours](https://projets.pavie.info/yohours/) pour les _coder_  les horaires un peu complexe.
 - [TagInfo](https://taginfo.openstreetmap.org/) pour voir la popularité des tags et en cas de doute ça peut aider.
 - [Overpass Turbo](https://overpass-turbo.eu/) comme OSM est une base de donnée on peut donc y faire des requètes.
-
-### Sur iOS :
-
-- [OSMAnd](https://osmand.net/) : ~~trop~~ super complet. Point fort c'est la seule application (que je connaisse) qui se met à jour toutes les heures, et j'aime bien voir et vérifier mes contributions rapidement. Il est très facile d'ajouter des `notes` (cf [Ma routine OSM](#ma-routine-osm-)).
-- [Go Maps!!](https://apps.apple.com/fr/app/go-map/id592990211) : pour contribuer depuis son téléphone.
 
 ### En tant que consommateur des données OSM j'utilise :
 
