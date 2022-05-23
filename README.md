@@ -12,6 +12,7 @@ Avant de commencer a contribuer quelques liens :
 - [Les 10 commandements](https://wiki.openstreetmap.org/wiki/File:Les_10_cOSMandements.pdf)
 - [Le guide du débutant](https://wiki.openstreetmap.org/wiki/FR:Guide_du_d%C3%A9butant)
 - Et bien sur le [forum](https://forum.openstreetmap.fr/) pour se présenter et poser ses premières questions ;)
+- [LearnOSM](https://learnosm.org/fr/) tout est dans le titre
 
 ### Deux outils principaux pour contribuer à partir d'un ordinateur :
 
