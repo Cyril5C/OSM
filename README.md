@@ -7,10 +7,11 @@ Tout d'abord OSM est une **base de données**, il faut bien différencier OSM de
 
 Et surtout : **RTFW : Read The Fucking Wiki** ! ;)
 
-Avant de commencer a contribuer quelques conseils de lecture :
+Avant de commencer a contribuer quelques liens :
 - [Bonnes pratiques](https://wiki.openstreetmap.org/wiki/FR:Bonnes_pratiques)
 - [Les 10 commandements](https://wiki.openstreetmap.org/wiki/File:Les_10_cOSMandements.pdf)
 - [Le guide du débutant](https://wiki.openstreetmap.org/wiki/FR:Guide_du_d%C3%A9butant)
+- Et bien sur le [forum](https://forum.openstreetmap.fr/) pour se présenter et poser ses premières questions ;)
 
 ### Deux outils principaux pour contribuer à partir d'un ordinateur :
 
