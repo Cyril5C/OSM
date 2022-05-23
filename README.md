@@ -49,3 +49,6 @@ Avant de commencer a contribuer quelques liens :
 - [Le processus de proposition](https://wiki.openstreetmap.org/wiki/FR:Processus_de_proposition)
 - [L'hebdo OSM](https://weeklyosm.eu/fr/)
 
+---
+
+This work © 2022 by Djiril is licensed under CC BY-SA 4.0. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/4.0/
