@@ -42,7 +42,7 @@ Avant de commencer a contribuer quelques liens :
 - Je compare la réalité terrain et les données dans OSMAnd
 - Quand je vois un truc à ajouter/modifier dans OSM, j'ajoute une `note` dans OSMAnd ("Signaler une anomalie OSM")
 - Je prends toutes les photos qui vont bien pour me rappeler ce qu'il faut modifier
-- A la maison, je vais ici `https://www.openstreetmap.org/user/My_User_id/notes` pour voir toutes mes notes et je fais les mises à jour tranquille sur l'ordinateur via ID.
+- A la maison, je vais ici `https://www.openstreetmap.org/user/My_User_id/notes` pour voir toutes mes notes et je fais les mises à jour tranquille sur l'ordinateur via iD.
 
 ### Liens pour aller plus loin :
 
