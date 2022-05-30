@@ -7,3 +7,4 @@ Site|Commentaires
 [Overpass Turbo](https://overpass-turbo.eu/)|Pour faire des requètes dans la base OSM
 [Osmose](http://osmose.openstreetmap.fr)|Pour voir ses erreurs et les erreurs des autres. Et bien sur les corriger
 [How did you contribute to OpenStreetMap?](https://hdyc.neis-one.org/)|Pour avoir des stats sur ses contributions
+[Who did it](https://simon04.dev.openstreetmap.org/whodidit/)|Pour savoir qui a contribué
