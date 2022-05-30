@@ -9,4 +9,4 @@ Site|Commentaires
 [How did you contribute to OpenStreetMap?](https://hdyc.neis-one.org/)|Avoir des stats sur ses contributions
 [Who did it?](https://simon04.dev.openstreetmap.org/whodidit/)|Savoir qui a contribué
 [Historique des modifications](https://osm.mapki.com/history/)|Voir l'historique des modifications par node, way ou relation
-[Créer ses cartes](http://umap.openstreetmap.fr/fr/)|Faire ses cartes pour son site web
+[uMap](http://umap.openstreetmap.fr/fr/)|Faire ses propres cartes pour son site web
