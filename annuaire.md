@@ -2,4 +2,4 @@
 
 Site|Commentaires
 ---|---
-YoHours|Pour coder les horaires compliquées
+[YoHours](https://projets.pavie.info/yohours/)|Pour coder les horaires compliquées
