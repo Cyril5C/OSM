@@ -8,3 +8,4 @@ Site|Commentaires
 [Osmose](http://osmose.openstreetmap.fr)|Pour voir ses erreurs et les erreurs des autres. Et bien sur les corriger
 [How did you contribute to OpenStreetMap?](https://hdyc.neis-one.org/)|Pour avoir des stats sur ses contributions
 [Who did it?](https://simon04.dev.openstreetmap.org/whodidit/)|Pour savoir qui a contribué
+[Historique des modifications](https://osm.mapki.com/history/)|Pour avoir l'historique des modifications par node, way ou relation
