@@ -65,7 +65,12 @@ Site|Commentaires
 [Historique des modifications](https://osm.mapki.com/history/)|Voir l'historique des modifications par node, way ou relation
 [uMap](http://umap.openstreetmap.fr/fr/)|Faire ses propres cartes pour son site web
 
----
+# Pour _gamifier_ ses contributions
+
+Site|Commentaires
+---|---
+[StreetComplete](https://wiki.openstreetmap.org/wiki/StreetComplete)|Une application sous Android pour complèter les données OSM
+
 
 # Lexique de la cartographie
 
