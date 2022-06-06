@@ -52,7 +52,9 @@ Avant de commencer a contribuer quelques liens :
 
 ---
 
-# Annuaire des outils autour d'OSM
+# Annuaires 
+
+## Des sites pour aider a bien contribuer
 
 Site|Commentaires
 ---|---
@@ -65,11 +67,12 @@ Site|Commentaires
 [Historique des modifications](https://osm.mapki.com/history/)|Voir l'historique des modifications par node, way ou relation
 [uMap](http://umap.openstreetmap.fr/fr/)|Faire ses propres cartes pour son site web
 
-# Pour _gamifier_ ses contributions
+## Pour _gamifier_ ses contributions
 
 Site|Commentaires
 ---|---
 [StreetComplete](https://wiki.openstreetmap.org/wiki/StreetComplete)|Une application sous Android pour complèter les données OSM
+[Map Roullette](https://maproulette.org/)|Des défis a relever selon ses envies ;)
 
 
 # Lexique de la cartographie
