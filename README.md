@@ -61,6 +61,7 @@ Avant de commencer a contribuer quelques liens :
 
 Site|Commentaires
 ---|---
+[Le Wifi of course](https://wiki.openstreetmap.org/)|La source de toutes les infos 
 [YoHours](https://projets.pavie.info/yohours/)|Coder les horaires compliquées
 [TagInfo](https://taginfo.openstreetmap.org/)|Voir la popularité des tags et en cas de doute ça peut aider
 [Overpass Turbo](https://overpass-turbo.eu/)|Faire des requètes dans la base OSM
