@@ -1,3 +1,7 @@
+[Guide pour commencer](#) - [Annuaires de sites utils](#)
+
+---
+
 # OSM
 ## Petit guide pour se lancer dans la contribution à OpenStreetMap
 
@@ -72,7 +76,7 @@ Site|Commentaires
 Site|Commentaires
 ---|---
 [StreetComplete](https://wiki.openstreetmap.org/wiki/StreetComplete)|Une application sous Android pour complèter les données OSM
-[Map Roullette](https://maproulette.org/)|Des défis a relever selon ses envies ;)
+[MapRoullette](https://maproulette.org/)|Des défis a relever selon ses envies ;)
 
 
 # Lexique de la cartographie
