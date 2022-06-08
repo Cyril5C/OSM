@@ -1,4 +1,4 @@
-[Guide pour commencer](#) - [Annuaires de sites utils](#)
+[Guide pour commencer](#petit-guide-pour-se-lancer-dans-la-contribution-à-openstreetmap) - [Annuaires de sites utils](#annuaires)
 
 ---
 
