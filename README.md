@@ -1,5 +1,7 @@
 [Guide pour commencer](#petit-guide-pour-se-lancer-dans-la-contribution-à-openstreetmap) - [Annuaires de sites utils](#annuaires)
 
+_Cette page est un bloc note dans lequel j'ajoute les choses que j'apprend au fur et a mesure des mes contributions et apprentissages d'OSM. N'hésitez pas a me contacter pour ajouter ou modifier des choses. Je contribue activement depuis avril 2022._
+
 ---
 
 # Petit guide pour se lancer dans la contribution à OpenStreetMap
