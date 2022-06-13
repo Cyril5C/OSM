@@ -72,6 +72,7 @@ Site|Commentaires
 [Who did it?](https://simon04.dev.openstreetmap.org/whodidit/)|Savoir qui a contribué
 [Historique des modifications](https://osm.mapki.com/history/)|Voir l'historique des modifications par node, way ou relation
 [uMap](http://umap.openstreetmap.fr/fr/)|Faire ses propres cartes pour son site web
+[La chaine PeerTube d'OSM France](https://peertube.openstreetmap.fr/)|
 
 ## Pour _gamifier_ ses contributions
 
