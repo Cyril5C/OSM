@@ -74,6 +74,7 @@ Site|Commentaires
 [uMap](http://umap.openstreetmap.fr/fr/)|Faire ses propres cartes pour son site web
 [La chaine PeerTube d'OSM France](https://peertube.openstreetmap.fr/)|
 [Visualisation des Notes](https://ent8r.github.io/NotesReview/)|Un bel outil de visualisation et de filtre des notes
+[Identifier les zones délaissées](https://is-osm-uptodate.frafra.eu)|Pour identifier les endroits a aller cartographier en priorité
 
 ## Pour _gamifier_ ses contributions
 
