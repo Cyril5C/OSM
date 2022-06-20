@@ -75,6 +75,7 @@ Site|Commentaires
 [La chaine PeerTube d'OSM France](https://peertube.openstreetmap.fr/)|
 [Visualisation des Notes](https://ent8r.github.io/NotesReview/)|Un bel outil de visualisation et de filtre des notes
 [Identifier les zones délaissées](https://is-osm-uptodate.frafra.eu)|Pour identifier les endroits a aller cartographier en priorité
+[Qui contribue autour de moi ?](https://resultmaps.neis-one.org/oooc)|Pour vois quels sont les contributeurs autour de vous
 
 ## Pour _gamifier_ ses contributions
 
