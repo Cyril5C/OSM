@@ -76,6 +76,7 @@ Site|Commentaires
 [Visualisation des Notes](https://ent8r.github.io/NotesReview/)|Un bel outil de visualisation et de filtre des notes
 [Identifier les zones délaissées](https://is-osm-uptodate.frafra.eu)|Pour identifier les endroits a aller cartographier en priorité
 [Qui contribue autour de moi ?](https://resultmaps.neis-one.org/oooc)|Pour vois quels sont les contributeurs autour de vous
+[HeatMap de vos contributions](http://www.yosmhm.neis-one.org/)|Pour visualiser vos zone de contributions
 
 ## Pour _gamifier_ ses contributions
 
