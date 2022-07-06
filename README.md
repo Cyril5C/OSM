@@ -59,7 +59,7 @@ Avant de commencer a contribuer quelques liens :
 
 # Annuaires 
 
-## Des sites pour aider a bien contribuer
+## Des liens pour aider a bien contribuer
 
 Site|Commentaires
 ---|---
@@ -77,6 +77,7 @@ Site|Commentaires
 [Identifier les zones délaissées](https://is-osm-uptodate.frafra.eu)|Pour identifier les endroits a aller cartographier en priorité
 [Qui contribue autour de moi ?](https://resultmaps.neis-one.org/oooc)|Pour vois quels sont les contributeurs autour de vous
 [HeatMap de vos contributions](http://www.yosmhm.neis-one.org/)|Pour visualiser vos zone de contributions
+[Smart Menu](https://wiki.openstreetmap.org/wiki/OSM_Smart_Menu)|Permet d'ouvrir des liens lié à OSM
 
 ## Pour _gamifier_ ses contributions
 
