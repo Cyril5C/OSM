@@ -41,6 +41,8 @@ Avant de commencer a contribuer quelques liens :
 ## En tant que consommateur des données OSM j'utilise :
 
 - [Organic Maps](https://organicmaps.app/) : moins de détails qu'OSMAnd donc plus lisible pour un usage consommateur... Les données venant d'OSM sont mis à jour tous les mois.
+- [Magic Earth](https://www.magicearth.com/) : appli très bien faite pour du guidage "turn by turn", je l'utilise au quotidien pour mes déplacements en vélo.
+- [OsmAPP](https://osmapp.org) : très beau rendu, et possibilité de contribuer directement dans l'app.
 - [Qwant Maps](https://www.qwant.com/maps) : très bien sur ordinateur et sur mobile.
 
 ## Ma routine OSM :
