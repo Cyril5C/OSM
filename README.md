@@ -26,7 +26,7 @@ Avant de commencer a contribuer quelques liens :
 
 ## Sur iOS :
 
-- [OSMAnd](https://osmand.net/) : ~~trop~~ super complet. Point fort c'est la seule application (que je connaisse) qui se met à jour toutes les heures, et j'aime bien voir et vérifier mes contributions rapidement. Il est très facile d'ajouter des `notes` (cf [Ma routine OSM](#ma-routine-osm-)).
+- [OSMAnd](https://osmand.net/) : ~~trop~~ super complet. Point fort c'est la seule application (que je connaisse) qui se met à jour toutes les heures, et j'aime bien voir et vérifier mes contributions rapidement. Il est très facile d'ajouter des `notes`.
 - [Go Maps!!](https://apps.apple.com/fr/app/go-map/id592990211) : pour contribuer depuis son téléphone.
 
 ## Les outils qui aident pour éviter de faire des bêtises :
@@ -44,13 +44,7 @@ Avant de commencer a contribuer quelques liens :
 - [Magic Earth](https://www.magicearth.com/) : appli très bien faite pour du guidage "turn by turn", je l'utilise au quotidien pour mes déplacements en vélo.
 - [OsmAPP](https://osmapp.org) : très beau rendu, et possibilité de contribuer directement dans l'app.
 - [Qwant Maps](https://www.qwant.com/maps) : très bien sur ordinateur et sur mobile.
-
-## Ma routine OSM :
-
-- Je compare la réalité terrain et les données dans OSMAnd
-- Quand je vois un truc à ajouter/modifier dans OSM, j'ajoute une `note` dans OSMAnd ("Signaler une anomalie OSM")
-- Je prends toutes les photos qui vont bien pour me rappeler ce qu'il faut modifier
-- A la maison, je vais ici `https://www.openstreetmap.org/user/My_User_id/notes` pour voir toutes mes notes et je fais les mises à jour tranquille sur l'ordinateur via iD.
+- [MyOSMatic](https://print.get-map.org/) : pour imprimer des cartes
 
 ## Liens pour aller plus loin :
 
@@ -87,13 +81,6 @@ Site|Commentaires
 ---|---
 [StreetComplete](https://wiki.openstreetmap.org/wiki/StreetComplete)|Une application sous Android pour complèter les données OSM
 [MapRoullette](https://maproulette.org/)|Des défis a relever selon ses envies ;)
-
-
-# Lexique de la cartographie
-
-## BD Ortho
-
-Pour cartographier et mettre a jour la base de donnée OSM vous allez surement utiliser le fond de carte BD Ortho (Base de Données Orthophotographique). Je vous conseille donc la lecture de la page wikipedia consacré a l'[orthophotographie](https://fr.wikipedia.org/wiki/Orthophotographie).
 
 ---
 This work © 2022 by Djiril is licensed under CC BY-SA 4.0. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/4.0/
