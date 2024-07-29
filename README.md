@@ -117,5 +117,9 @@ Selectionner le chemin a modifier (s), raccourci (w) et ensuite :
 - Option + Click pour supprmier un noeud
 https://josm.openstreetmap.de/wiki/Fr%3AHelp/Action/ImproveWayAccuracy
 
+## Questions en suspens : 
+- Rotation d'un batiment ?
+- Ajouter une adresse avec une relation
+
 ---
 This work © 2024 by Cyril5C is licensed under CC BY-SA 4.0. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/4.0/
