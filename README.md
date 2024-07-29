@@ -6,7 +6,7 @@ _Cette page est un bloc note dans lequel j'ajoute les choses que j'apprends au f
 
 # Petit guide pour se lancer dans la contribution à OpenStreetMap
 
-## Petit rappel
+## Rappel
 
 Tout d'abord OSM est une **base de données**, il faut bien différencier OSM des fonds de cartes qui donnent une représentation de cette même base de donnée. On ne copie pas les cartes, les contributions doivent venir d'une observation terrain. 
 
@@ -84,6 +84,38 @@ Site|Commentaires
 ---|---
 [StreetComplete](https://wiki.openstreetmap.org/wiki/StreetComplete)|Une application sous Android pour complèter les données OSM
 [MapRoullette](https://maproulette.org/)|Des défis a relever selon ses envies ;)
+
+---
+# JOSM : guide de démarrage rapide (pour Mac)
+## Les greffons pour bien commencer : 
+- building_tools
+- cadastre-fr
+- geotools
+- opendata
+- utilsplugin2
+- wikipedia
+
+## Les imageries pour bien commencer : 
+- BANO
+- Cadastre
+- BDOrtho IGN
+- Ortho HR OGN
+
+## Les trucs a savoir : 
+N'imaginez pas pouvoir manipuler JOSM sans souris ! 
+- se déplacer dans la carte : clique droit
+- sélectionner un objet : clique gauche
+- raccourci clavier : 
+  - a : ajouter un noeud
+  - s : selectionner un objet
+  - fn+sup : supprimer un objet
+
+## Améliorer un chemin : 
+Outil très pratique pour modifier un chemin.
+Selectionner le chemin a modifier (s), raccourci (w) et ensuite : 
+- Control + Click pour ajouter un noeud
+- Option + Click pour supprmier un noeud
+https://josm.openstreetmap.de/wiki/Fr%3AHelp/Action/ImproveWayAccuracy
 
 ---
 This work © 2024 by Cyril5C is licensed under CC BY-SA 4.0. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/4.0/
