@@ -119,7 +119,7 @@ https://josm.openstreetmap.de/wiki/Fr%3AHelp/Action/ImproveWayAccuracy
 
 ## Questions en suspens : 
 - Rotation d'un batiment ?
-- Ajouter une adresse avec une relation
+- Ajouter une adresse avec une relation : https://wiki.openstreetmap.org/wiki/France/Tracer_des_b%C3%A2timents#Ajout_des_adresses
 
 ---
 This work © 2024 by Cyril5C is licensed under CC BY-SA 4.0. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/4.0/
