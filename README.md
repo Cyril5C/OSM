@@ -27,7 +27,8 @@ Avant de commencer a contribuer quelques liens :
 ## Sur iOS :
 
 - [OSMAnd](https://osmand.net/) : ~~trop~~ super complet. Point fort c'est la seule application (que je connaisse) qui se met à jour toutes les heures, et j'aime bien voir et vérifier mes contributions rapidement. Il est très facile d'ajouter des `notes`.
-- [Go Maps!!](https://apps.apple.com/fr/app/go-map/id592990211) : pour contribuer depuis son téléphone.
+- [Go Maps!!](https://apps.apple.com/fr/app/go-map/id592990211) : pour contribuer depuis son téléphone, interface pas rudimentaire mais très complet.
+- [Every Door](https://every-door.app/) : pour contribuer facilement depuis son téléphone
 
 ## Les outils qui aident pour éviter de faire des bêtises :
 
@@ -41,9 +42,11 @@ Avant de commencer a contribuer quelques liens :
 ## En tant que consommateur des données OSM j'utilise :
 
 - [Organic Maps](https://organicmaps.app/) : moins de détails qu'OSMAnd donc plus lisible pour un usage consommateur... Les données venant d'OSM sont mis à jour tous les mois.
+- [Cartes.App](https://cartes.app) : une superbe carte basée sur OSM et open source, fonctionne très bien sur PC ou mobile.
 - [Magic Earth](https://www.magicearth.com/) : appli très bien faite pour du guidage "turn by turn", je l'utilise au quotidien pour mes déplacements en vélo.
+- [GeoVelo](https://geovelo.app/fr/) : appli très bien faite pour mes parcours en vélo (en complément de Magic Earth).
 - [OsmAPP](https://osmapp.org) : très beau rendu, et possibilité de contribuer directement dans l'app.
-- [Qwant Maps](https://www.qwant.com/maps) : très bien sur ordinateur et sur mobile.
+- ~~[Qwant Maps](https://www.qwant.com/maps) : très bien sur ordinateur et sur mobile.~~
 - [MyOSMatic](https://print.get-map.org/) : pour imprimer des cartes
 
 ## Liens pour aller plus loin :
@@ -83,4 +86,4 @@ Site|Commentaires
 [MapRoullette](https://maproulette.org/)|Des défis a relever selon ses envies ;)
 
 ---
-This work © 2022 by Djiril is licensed under CC BY-SA 4.0. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/4.0/
+This work © 2024 by Cyril5C is licensed under CC BY-SA 4.0. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/4.0/
