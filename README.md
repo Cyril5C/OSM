@@ -78,6 +78,7 @@ Site|Commentaires
 [Smart Menu](https://wiki.openstreetmap.org/wiki/OSM_Smart_Menu)|Permet d'ouvrir des liens lié à OSM
 
 ## Faire ses propres cartes : 
+
 Site|Commentaires
 ---|---
 [uMap](http://umap.openstreetmap.fr/fr/)|Faire ses propres cartes pour son site web
