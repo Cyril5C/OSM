@@ -90,6 +90,7 @@ Site|Commentaires
 ---|---
 [StreetComplete](https://wiki.openstreetmap.org/wiki/StreetComplete)|Une application sous Android pour complèter les données OSM
 [MapRoullette](https://maproulette.org/)|Des défis a relever selon ses envies ;)
+[Parking Mapper](https://binnette.github.io/parking-mapper/)|Pour simplifier la contribution des parkings
 
 ---
 # JOSM : guide de démarrage rapide (pour Mac)
