@@ -101,6 +101,8 @@ Site|Commentaires
 - opendata
 - utilsplugin2
 - wikipedia
+- photoadjust
+- photo_geotagging
 
 ## Les imageries pour bien commencer : 
 - BANO
@@ -116,6 +118,10 @@ N'imaginez pas pouvoir manipuler JOSM sans souris !
   - a : ajouter un noeud
   - s : selectionner un objet
   - fn+sup : supprimer un objet
+  - Manipulation des photos :
+    - Shift + clique gauche : selectionner plusieurs photos
+    - Shift + Control + clique gauche : selectionner une serie de photos
+    - control + clique gauche : ajuster la direction de la photo
 
 ## Améliorer un chemin : 
 Outil très pratique pour modifier un chemin.
