@@ -8,5 +8,5 @@ https://forum.geocommuns.fr/t/les-tutoriels-pour-contribuer-a-panoramax/1015
 - Je vérifie bien que la GoPro est bien postionnée (perpendiculaire au sol)
 - J'importe les photos sur mon disque dur et je les importe dans JOSM
 - Je fais une passe en supprimant les piles et supprime les photos d'arrivée et de départ
-- J'améliore la trace GPX dans un éditeur
+- J'améliore la trace GPX dans un éditeur : https://www.visugpx.com/editgpx/
 - Dans JOSM je fais la correlation photos/trace GPX
